@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang='en'>
   <head>
+
     <meta charset='utf-8'>
     <meta name='viewport' content='width=device-width'>
-    <title>Wesley Haines</title>
+    <title>Tegu</title>
     <link rel="stylesheet" href="stylesheets/normalize.css">
     <link rel="stylesheet" type="text/css" href="stylesheets/foundation.min.css">
     <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
@@ -11,8 +12,12 @@
     <link href='stylesheets/tegu.css' rel='stylesheet'>
     <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:100' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+    <link rel="icon" 
+      type="image/png" 
+      href="http://www.tegutalk.com/images/favicon.ico">
     <script src='javascripts/vendor/custom.modernizr.js'></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
 </head>
 <body> 
   <wrapper>
@@ -47,9 +52,9 @@
 
       <section class="main-section animated fadeIn">
         <header class="row">
-          <img class='large-3 large-offset-2 columns animated fadeInLeft hide-for-small' src="../images/logo.png">
-          <p id='hello' class='large-7 columns animated fadeInRight'>Hello.</p>
-          <p id='hero' class='large-7 columns animated fadeInRight'>My name is Wesley Haines, a UX Designer and UI Engineer at your service.
+          <img class='large-3 large-offset-2 columns animated fadeInLeft hide-for-small' src="http://www.mommyramblings.org/wp-content/uploads/2012/01/TeguLogo.jpg">
+          <p id='hello' class='large-7 columns animated fadeInRight'>Tegu.</p>
+          <p id='hero' class='large-7 columns animated fadeInRight'>Tegu is a thing that people love to do make good.
           </p>
        </header>
         <!--<div class="sunny animated fadeInUp">
