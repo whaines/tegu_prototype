@@ -48,8 +48,6 @@ a.menu-icon{
 header {
   height: 800px;
   width: 100%;
-   background-image: url('../images/tegu_click.png');
-  background-size: cover;
 }
 
 header img {
