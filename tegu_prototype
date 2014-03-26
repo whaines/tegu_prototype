@@ -48,8 +48,8 @@
       <section class="main-section animated fadeIn">
         <header class="row">
           <img class='large-3 large-offset-2 columns animated fadeInLeft hide-for-small' src="../images/logo.png">
-          <p id='hello' class='large-7 columns animated fadeInRight'>Hello.</p>
-          <p id='hero' class='large-7 columns animated fadeInRight'>My name is Wesley Haines, a UX Designer and UI Engineer at your service.
+          <p id='hello' class='large-7 columns animated fadeInRight'>MAGNETIC MOMENTS</p>
+          <p id='hero' class='large-7 columns animated fadeInRight'>The wooden block reinvented.
           </p>
        </header>
         <!--<div class="sunny animated fadeInUp">
