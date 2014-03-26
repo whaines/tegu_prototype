@@ -3,7 +3,7 @@
   <head>
     <meta charset='utf-8'>
     <meta name='viewport' content='width=device-width'>
-    <title>Wesley Haines</title>
+    <title>Tegu Prototype</title>
     <link rel="stylesheet" href="stylesheets/normalize.css">
     <link rel="stylesheet" type="text/css" href="stylesheets/foundation.min.css">
     <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
@@ -47,9 +47,8 @@
 
       <section class="main-section animated fadeIn">
         <header class="row">
-          <img class='large-3 large-offset-2 columns animated fadeInLeft hide-for-small' src="../images/logo.png">
-          <p id='hello' class='large-7 columns animated fadeInRight'>MAGNETIC MOMENTS</p>
-          <p id='hero' class='large-7 columns animated fadeInRight'>The wooden block reinvented.
+          <p id='hello' class='large-12 columns animated fadeInRight'>MAGNETIC MOMENTS</p>
+          <p id='hero' class='large-12 columns animated fadeInRight'>The wooden block reinvented.
           </p>
        </header>
         <!--<div class="sunny animated fadeInUp">
