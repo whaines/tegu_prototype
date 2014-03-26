@@ -41,7 +41,7 @@ a.menu-icon{
 }
 
 .main-section{
-  background-image: url('../images/san_francisco.png');
+  background-image: url('../images/tegu_click.png');
   background-size: cover;
 }
 
@@ -55,7 +55,7 @@ header img {
 }
 
 header #hello {
-  color: white;
+  color: #ececec;
   font-size: 85px;
   margin-top: 21%;
   margin-bottom: 0px;
@@ -63,7 +63,7 @@ header #hello {
 }
 
 header #hero {
-  color: white;
+  color: #ececec;
   font-size: 22px;
   padding-left: 68px;
   margin-bottom: 8%;
