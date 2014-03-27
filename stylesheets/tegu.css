@@ -94,16 +94,14 @@ p.sunny{
 #about{
   height: 800px;
   width: 100%;
-  background-image: url('../images/about.png');
-  background-size: cover;
+  background-color: white;
 }
 
 
 #giving{
   height: 800px;
   width: 100%;
-  background-image: url('../images/giving.png');
-  background-size: cover;
+  background-color: white;
 }
 
 
