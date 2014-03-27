@@ -18,17 +18,22 @@
   <wrapper>
 
 
+    <div class="off-canvas-wrap" ="fixed">
+  <div class="inner-wrap">
+    <nav class="tab-bar fixed">
+      <section class="right-small">
+        <a class="right-off-canvas-toggle menu-icon fixed" ><span></span></a>
+      </section>
 
-  <div class="off-canvas-wrap sticky">
-  <div class="inner-wrap sticky">
-      <nav class="top-bar fixed">
+      <section class="middle tab-bar-section">
+        <h1 class="title">Magnetic Moments</h1>
+      </section>
 
-        <section class="right-small">
-          <a class="right-off-canvas-toggle menu-icon animated fadeIn"><span></span></a> 
-        </section>
-      </nav>
+      
+    </nav>
 
-     <aside class="left-off-canvas-menu">
+
+     <aside class="right-off-canvas-menu">
       <ul class="off-canvas-list">
         <li><label>Tegu</label></li>
         <li><a href="http://www.tegu.com/our-story/">Giving Back</a></li>
