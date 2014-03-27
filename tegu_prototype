@@ -17,18 +17,18 @@
 <body> 
   <wrapper>
 
-  <div class="off-canvas-wrap" ="fixed">
-    <div class="inner-wrap">
+  <div class="off-canvas-wrap sticky">
+    <div class="inner-wrap sticky">
     <nav>
       <section class="right-small">
-        <a class="right-off-canvas-toggle menu-icon animated fadeIn fixed" ><span></span></a>
+        <a class="right-off-canvas-toggle menu-icon animated fadeIn" ><span></span></a>
       </section>
 
     </nav>
 
 
      <aside class="right-off-canvas-menu">
-      <ul class="off-canvas-list">
+      <ul class="off-canvas-list" id="menu">
         <li><label>Tegu</label></li>
         <li><a href="http://www.tegu.com/our-story/">Giving Back</a></li>
         <li><a href="http://www.tegu.com/building-sets>Shop">Shop</a></li>
