@@ -19,15 +19,20 @@
 
 
 
-  <div class="fixed">
-  <nav class="top-bar" data-topbar>
-    <ul class="title-area">
-      <li class="name">
-        <img src="../images/tegu_logo.png">
-      </li>
-    </ul>
-  </nav>
-</div>
+  <div class="off-canvas-wrap sticky">
+  <div class="inner-wrap sticky">
+      <nav class="top-bar fixed">
+
+        <section class="right-small">
+          <a class="right-off-canvas-toggle menu-icon animated fadeIn"><span></span></a> 
+        </section>
+      </nav>
+
+      <aside class="right-off-canvas-menu">
+        <ul class="off-canvas-list" id="menu">
+          
+        </ul>
+      </aside>
 
 
 
@@ -54,190 +59,11 @@
       </section>
 
 
+      <a class="exit-off-canvas"></a>
 
-<div id="schoolModal" class="reveal-modal" data-reveal>
-  <div class="large-7 large-centered-for-small columns">
-    <img src="../images/schoolmatch_final_logo.png">
-    <p>School Match is an mobile web application that strives provide parents with a resource that matches their child's needs with the perfect school. The mobile web application was created during a Startup Weekend centered around the theme of education.</p>
-    <hr noshade size=3>
-    <a href="#" data-reveal-id="schoolModal2" class="large-6 columns large secondary button hide-for-small">View Slides</a> 
-    <a href="http://schoolmatch.herokuapp.com/" target="_blank" class="large-6 columns large secondary button hide-for-small">Try Demo</a>  
   </div>
-  <div class="large-5 columns hide-for-small">
-    <img src="../images/school_match_iphone.png">
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
 </div>
 
-
-<section id='hotspotModal' class='reveal-modal' data-reveal>
-  <div class="large-7 large-centered-for-small columns">
-    <img src="../images/hotspot_logo.png">
-    <p>As my first personal project: Hotspot is mobile application that will allow users to freely share WiFi in a safe and private way. I treated the project  conceptually. WiFi can be like water: much of it goes to waste and can be allocated more effectively.</p>
-    <hr noshade size=3>
-    <a href="#" data-reveal-id="hotspotModal2" class="large-6 columns large secondary button hide-for-small">View Slides</a> 
-    <a href="#" data-reveal-id="hotspotVideo" class="large-6 columns large secondary button hide-for-small">View Demo</a>  
-  </div>
-  <div class="large-5 columns hide-for-small">
-    <img src="../images/bond_hotspot.png">
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</section>
-
-
-<section id='leagueModal' class='reveal-modal' data-reveal>
-  <div class="large-7 large-centered-for-small columns">
-    <img src="../images/BBI_guild_logo.png">
-    <p>Bento Box Interactive assigned a project to create a visual mockup for a central platform for mobile gamers. The resulting designs reflect multiple influences- from Fantasy Football "league" organization to clean designs coming from Apple's Game Center and Microsoft's Xbox Live interfaces.</p>
-    <hr noshade size=3>
-    <a href="#" data-reveal-id="leagueModal2" class="large-12 columns large secondary button hide-for-small">View Slides</a> 
-  </div>
-  <div class="large-5 columns hide-for-small">
-    <img src="../images/BBI_iphone_exercise_2.png">
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</section>
-
-
-<section id='publetModal' class='reveal-modal' data-reveal>
-<div class="large-7 large-centered-for-small columns">
-    <img src="../images/publet_logo.png">
-    <p>My final project for my UXDi course. My team of four worked with a new client, Publet- an online micropublishing platform. Tasked with re-designing the onboarding process, we created four different design solutions for the project.</p>
-    <hr noshade size=3>
-    <a href="#" data-reveal-id="publetModal2" class="large-6 columns large secondary button hide-for-small">View Slides</a> 
-    <a href="#" data-reveal-id="publetVideo" class="large-6 columns large secondary button hide-for-small">View Demo</a> 
-  </div>
-  <div class="large-5 columns hide-for-small">
-    <img class="guild_phone" src="../images/publet_iphone.png">
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</section>
-
-
-<section id='hipitiModal' class='reveal-modal' data-reveal>
-<div class="large-7 large-centered-for-small columns">
-    <img src="../images/hipiti_logo.png">
-    <p>The third project in the UXDi series presented my team with our first client, Hipiti- a company in the Hattery coworking space. The company asked our team to help re-design the onboarding sign-up and customization processes.</p>
-    <hr noshade size=3>
-    <a href="#" data-reveal-id="hipitiModal2" class="large-6 columns large secondary button hide-for-small">View Slides</a> 
-    <a href="#" data-reveal-id="hipitiVideo" class="large-6 columns large secondary button hide-for-small">View Demo</a> 
-  </div>
-  <div class="large-5 columns hide-for-small">
-    <img src="../images/hipiti_phone.png">
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</section>
-
-
-<section id='netflixModal' class='reveal-modal' data-reveal>
-<div class="large-7 large-centered-for-small columns">
-    <img src="../images/netflix-logo.png">
-    <p>The second project in the UXDi program required my team to add a social component to the already popular movie streaming service. The project also remains my first thorough attempt at both interaction and visual design for a web service.</p>
-    <hr noshade size=3>
-    <a href="#" data-reveal-id="netflixModal2" class="large-12 columns large secondary button hide-for-small">View Slides</a> 
-  </div>
-  <div class="large-5 columns hide-for-small">
-    <img src="../images/netflix_iphone.png">
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</section>
-
-
-<section id='popvoxModal' class='reveal-modal' data-reveal>
-<div class="large-7 large-centered-for-small columns">
-    <img id="pvlogo" src="../images/popvox_logo.png">
-    <p>My first foray into User Experience Design. As a product marketer in a very small startup, I wore many hats. I was tasked with helping design the site’s new social interactivity features. This is where my journey began as a designer.</p>
-    <hr noshade size=3>
-    <a href="#" class="large-12 large-centered columns large secondary button hide-for-small">contact me for more info</a>
-  </div>
-  <div class="large-5 columns hide-for-small">
-    <img src="../images/popvox_phone.png">
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</section>
-
-
-</wrapper>
-
-
-<div id="schoolModal2" class="reveal-modal" data-reveal>
-  <h1>School Match Presentation</h1>
-  <iframe src="https://docs.google.com/presentation/d/10qwgHIy0grR85RF0dp-_RQOXms09NUVXhRTwqA36h2U/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-  <hr noshade size=3>
-    <a href="#" data-reveal-id="schoolModal" class="large-6 columns large secondary button hide-for-small">Back</a> 
-    <a href="http://schoolmatch.herokuapp.com/" class="large-6 columns large secondary button hide-for-small">Try Demo</a> 
-  <a class="close-reveal-modal">&#215;</a>
-</div>
-
-<div id="hotspotModal2" class="reveal-modal" data-reveal>
-  <h1>Hotspot Presentation</h1>
-  <iframe src="https://docs.google.com/presentation/d/1GRHMNMfNxtGd2gvZsd5LUpD7DwGuETmy7BuwQZhay8E/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-  <hr noshade size=3>
-    <a href="#" data-reveal-id="hotspotModal" class="large-6 columns large secondary button hide-for-small">Back</a> 
-    <a href="#" data-reveal-id='hotspotVideo' class="large-6 columns large secondary button hide-for-small">View Demo</a> 
-  <a class="close-reveal-modal">&#215;</a>
-</div>
-
-<div id="hotspotVideo" class="reveal-modal" data-reveal>
-  <h1>Hotspot Demo</h1>
-  <iframe width="780" height="530" src="//www.youtube.com/embed/TkVrsSm_DZE" frameborder="0" allowfullscreen></iframe>
-  <hr noshade size=3>
-    <a href="#" data-reveal-id="hotspotModal" class="large-6 columns large secondary button hide-for-small">Back</a> 
-    <a href="#" data-reveal-id='hotspotModal2' class="large-6 columns large secondary button hide-for-small">View Slides</a> 
-  <a class="close-reveal-modal">&#215;</a>
-</div>
-
-<div id="leagueModal2" class="reveal-modal" data-reveal>
-  <h1>Guild Presentation</h1>
-  <iframe src="https://docs.google.com/presentation/d/1DBOdQQvPRzHx74VrGzORwMscHH9cX8ra1-vEUu7ZHcc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-  <hr noshade size=3>
-    <a href="#" data-reveal-id="leagueModal" class="large-6 columns large secondary button hide-for-small">Back</a> 
-  <a class="close-reveal-modal">&#215;</a>
-</div>
-
-<div id="publetModal2" class="reveal-modal" data-reveal>
-  <h1>Publet Presentation</h1>
-  <iframe src="https://docs.google.com/presentation/d/1-Fb3ymTApr3Z1kx6i1E7cvM4j9QpsZ39zziVsctgwao/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-  <hr noshade size=3>
-    <a href="#" data-reveal-id="publetModal" class="large-6 columns large secondary button hide-for-small">Back</a> 
-    <a href="#" data-reveal-id='publetVideo' class="large-6 columns large secondary button hide-for-small">View Demo</a> 
-  <a class="close-reveal-modal">&#215;</a>
-</div>
-
-<div id="publetVideo" class="reveal-modal" data-reveal>
-  <h1>Publet Demo</h1>
-  <iframe width="780" height="530" src="//www.youtube.com/embed/IZS6fZgVUc8" frameborder="0" allowfullscreen></iframe>
-  <hr noshade size=3>
-    <a href="#" data-reveal-id="publetModal" class="large-6 columns large secondary button hide-for-small">Back</a> 
-    <a href="#" data-reveal-id='publetModal2' class="large-6 columns large secondary button hide-for-small">View Slides</a> 
-  <a class="close-reveal-modal">&#215;</a>
-</div>
-
-<div id="hipitiModal2" class="reveal-modal" data-reveal>
-  <h1>Hipiti Presentation</h1>
-  <iframe src="https://docs.google.com/presentation/d/1J_1UiQoqkD-rxSbKVtYeNEz6oN18ki9F1E7mcTUwa2o/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="549" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-  <hr noshade size=3>
-    <a href="#" data-reveal-id="hipitiModal" class="large-6 columns large secondary button hide-for-small">Back</a> 
-    <a href="#" data-reveal-id='hipitiVideo' class="large-6 columns large secondary button hide-for-small">View Demo</a> 
-  <a class="close-reveal-modal">&#215;</a>
-</div>
-
-<div id="hipitiVideo" class="reveal-modal" data-reveal>
-  <h1>Hipiti Demo</h1>
-  <iframe width="780" height="530" src="//www.youtube.com/embed/5XZ5yG0bem8" frameborder="0" allowfullscreen></iframe>
-  <hr noshade size=3>
-    <a href="#" data-reveal-id="hipitiModal" class="large-6 columns large secondary button hide-for-small">Back</a> 
-    <a href="#" data-reveal-id='hipitiModal2' class="large-6 columns large secondary button hide-for-small">View Slides</a> 
-  <a class="close-reveal-modal">&#215;</a>
-</div>
-
-<div id="netflixModal2" class="reveal-modal" data-reveal>
-  <h1>Netflix Presentation</h1>
-  <iframe src="https://docs.google.com/presentation/d/1wcomMMcol0yLMZggJTCImVqyhs4m0A04i3ryvCEfYEk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="549" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-  <hr noshade size=3>
-    <a href="#" data-reveal-id="netflixModal" class="large-6 columns large secondary button hide-for-small">Back</a> 
-  <a class="close-reveal-modal">&#215;</a>
-</div>
 
    <script>
     	document.write('<script src=./javascripts/vendor/'+ ('__proto__' in {} ? 'zepto' : 'jquery')+ '.js><\/script>');
