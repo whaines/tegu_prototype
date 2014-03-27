@@ -796,6 +796,9 @@ body { /* Addresses a small issue in webkit: http://bit.ly/NEdoDq */
 	-moz-animation-name: fadeInDown;
 	-o-animation-name: fadeInDown;
 	animation-name: fadeInDown;
+	-webkit-animation-delay: 3s;
+	-moz-animation-delay: 3s;
+	-o-animation-delay: 3s;
 }
 @-webkit-keyframes fadeInLeft {
 	0% {

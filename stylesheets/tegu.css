@@ -52,11 +52,11 @@ header {
 
 header img {
   margin-top: 25%;
-  margin-left: 40%;
+  margin-left: 38%;
 }
 
 header #hello {
-  color: black;
+  color: white;
   font-size: 35px;
   margin-bottom: 0px;
   padding-left: 60px;
@@ -64,7 +64,7 @@ header #hello {
 }
 
 header #hero {
-  color: black;
+  color: white;
   font-size: 22px;
   padding-left: 68px;
   margin-bottom: 8%;
