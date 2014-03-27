@@ -97,6 +97,9 @@ p.sunny{
   background-color: white;
 }
 
+#about.row{
+  margin-top: 200px;
+}
 
 #giving{
   height: 800px;
