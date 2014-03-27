@@ -33,11 +33,11 @@
 
 
       <section class="main-section animated fadeIn">
-        <div> class="row">
+        <header class="row">
           <p id='hello' class='large-12 centered-columns animated fadeInRight'>MAGNETIC MOMENTS</p>
           <p id='hero' class='large-12 centered-columns animated fadeInRight'>The wooden block reinvented.
           </p>
-       </div>
+       </header>
       </section>      
 
 
