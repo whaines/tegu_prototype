@@ -19,15 +19,15 @@
 
 
 
-  <div class="contain-to-grid sticky">
-    <nav class="top-bar fixed" data-topbar>
-      <ul class="title-area">
-        <li class="name">
-          <img src="../images/tegu_logo.png">
-        </li>
-      </ul>
-    </nav>
-  </div>
+  <div class="fixed">
+  <nav class="top-bar" data-topbar>
+    <ul class="title-area">
+      <li class="name">
+        <img src="../images/tegu_logo.png">
+      </li>
+    </ul>
+  </nav>
+</div>
 
 
 
