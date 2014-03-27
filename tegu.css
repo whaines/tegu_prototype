@@ -41,7 +41,7 @@ a.menu-icon{
 }
 
 .main-section{
-  background-image: url('../images/tegu_click.png');
+  background-image: url('../images/magnetic_moments.png');
   background-size: cover;
 }
 
@@ -55,7 +55,7 @@ header img {
 }
 
 header #hello {
-  color: #ececec;
+  color: white;
   font-size: 35px;
   margin-top: 21%;
   margin-bottom: 0px;
@@ -64,7 +64,7 @@ header #hello {
 }
 
 header #hero {
-  color: #ececec;
+  color: white;
   font-size: 22px;
   padding-left: 68px;
   margin-bottom: 8%;
