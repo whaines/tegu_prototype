@@ -49,7 +49,12 @@
           <p id='hero' class='large-12 centered-columns animated fadeInUp'>The wooden block reinvented.
           </p>
        </header>
-      </section>      
+      </section>   
+
+    <a class="exit-off-canvas"></a>
+
+  </div>
+</div>   
 
 
       <section id='about'>
@@ -78,10 +83,7 @@
       </section>
 
 
-      <a class="exit-off-canvas"></a>
 
-  </div>
-</div>
 
    <script>
     	document.write('<script src=./javascripts/vendor/'+ ('__proto__' in {} ? 'zepto' : 'jquery')+ '.js><\/script>');
