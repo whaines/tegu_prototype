@@ -17,8 +17,8 @@
 <body> 
   <wrapper>
 
-    <div class="off-canvas-wrap" ="fixed">
-  <div class="inner-wrap">
+  <div class="off-canvas-wrap" ="fixed">
+    <div class="inner-wrap">
     <nav class="tab-bar fixed">
       <section class="right-small">
         <a class="right-off-canvas-toggle menu-icon fixed" ><span></span></a>
@@ -27,6 +27,7 @@
       <section class="middle tab-bar-section">
         <h1 class="title">Magnetic Moments</h1>
       </section>
+    </nav>
 
 
      <aside class="right-off-canvas-menu">
