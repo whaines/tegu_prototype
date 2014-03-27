@@ -39,9 +39,9 @@
       <section class="main-section animated fadeIn">
         <header class="row">
           <div class="large-12 centered-columns animated fadeInDown">
-            <img src="../images/tegu_logo.png">
+            <img src="../images/teguLogo.png">
           </div>
-          <p id='hello' class='large-12 centered-columns animated fadeInUp'>MAGNETIC MOMENTS</p>
+          <p id='hello' class='large-12 centered-columns animated fadeInUp'><strong>MAGNETIC MOMENTS</strong></p>
           <p id='hero' class='large-12 centered-columns animated fadeInUp'>The wooden block reinvented.
           </p>
        </header>
