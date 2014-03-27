@@ -30,7 +30,19 @@
 
       <aside class="right-off-canvas-menu">
         <ul class="off-canvas-list" id="menu">
-          
+          <li><label>Projects</label></li>
+          <li><a href="#" data-reveal-id='schoolModal'><img src="../images/schoolmatch_final_logo.png"></a></li>
+          <li><a href="#" data-reveal-id='hotspotModal'><img src="../images/hotspot_logo_color.png"></a></li>
+          <li><a href="#" data-reveal-id='leagueModal'><img src="../images/BBI_guild_logo.png"></a></li>
+          <li><a href="#" data-reveal-id='publetModal'><img src="../images/publet_logo.png"></a></li>
+          <li><a href="#" data-reveal-id='hipitiModal'><img src="../images/hipiti_logo_color.png"></a></li>
+          <li><a href="#" data-reveal-id='netflixModal'><img src="../images/netflix-logo.png"></a></li>
+          <li><a href="#" data-reveal-id='popvoxModal'><img src="../images/popvox_logo_color.png"></a></li>
+          <li><label><a href="https://docs.google.com/presentation/d/1NXqofWpOS_l5kDsmD5ieW_70wThKv8sZA52ug5pJA7g/pub?start=false&loop=false&delayms=3000" target="_blank">TL;DR Version</a></label></li>
+          <li><label><a href="../images/Haines_CV.pdf" target="_blank">CV</a></label></li>
+          <li><label><a href="../images/Haines_cover_letter.pdf" target="_blank">A Letter</a></label></li>
+          <li><label><a href='mailto:wesley.haines@me.com'>Let's Talk</a></label></li>
+          <li><label><a href='http://www.linkedin.com/in/wesleyhaines' target="_blank">LinkedIn</a></label></li>
         </ul>
       </aside>
 
@@ -41,7 +53,7 @@
           <div class="large-12 columns animated fadeInDown" style="float:center">
             <img src="images/teguLogo.png">
           </div>
-          <p id='hello' class='large-12 centered-columns animated fadeInUp'><strong>MAGNETIC MOMENTS</strong></p>
+          <p id='hello' class='large-12 centered-columns animated fadeInUp'><strong>#MAGNETICMOMENTS</strong></p>
           <p id='hero' class='large-12 centered-columns animated fadeInUp'>The wooden block reinvented.
           </p>
        </header>
