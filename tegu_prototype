@@ -62,6 +62,19 @@
 
 
       <section id='giving'>
+          <div class="row">
+            <div class="large-6 columns">
+              <p><strong>GIVING BACK</strong></p>
+              <p>At Tegu, we believe that creativity and imagination are a child’s best friend. We aspire to design toys that captivate children in a safe, natural and innovative way. By unlocking the mind, we can inspire creative experiences that yield remarkable results.</p>
+            </div>
+            <div class="large-5 columns">
+              <img src="http://www.tegu.com/skin/frontend/tegu/default/images/aboutus/honduras-map.jpg">
+            </div>
+          </div>
+      </section>
+
+
+      <section id='giving'>
           <div class="large-12 large-centered columns">
             
           </div>
