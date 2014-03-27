@@ -17,10 +17,9 @@
 <body> 
   <wrapper>
 
-
-  <div class="inner-wrap sticky">
-      <nav class="top-bar fixed" data-topbar>
-          <ul class="title-area">
+<div class="contain-to-grid sticky" data-options="sticky_on: large">
+  <nav class="top-bar" data-topbar>
+    <ul class="title-area">
             <li class="name">
               <img src="../images/tegu_logo.png">
             </li>
@@ -37,7 +36,8 @@
       </li>
     </ul>
   </section>
-      </nav>
+  </nav>
+</div>
 
 
 
