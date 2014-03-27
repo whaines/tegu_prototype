@@ -21,7 +21,7 @@
     <div class="inner-wrap">
     <nav>
       <section class="right-small">
-        <a class="right-off-canvas-toggle menu-icon fixed" ><span></span></a>
+        <a class="right-off-canvas-toggle menu-icon animated fadeIn fixed" ><span></span></a>
       </section>
 
     </nav>
@@ -84,7 +84,7 @@
   </div>
 </div>
 
-
+</wrapper>
    <script>
     	document.write('<script src=./javascripts/vendor/'+ ('__proto__' in {} ? 'zepto' : 'jquery')+ '.js><\/script>');
   </script>
