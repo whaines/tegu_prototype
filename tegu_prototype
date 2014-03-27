@@ -19,14 +19,11 @@
 
   <div class="off-canvas-wrap" ="fixed">
     <div class="inner-wrap">
-    <nav class="tab-bar fixed">
+    <nav>
       <section class="right-small">
         <a class="right-off-canvas-toggle menu-icon fixed" ><span></span></a>
       </section>
 
-      <section class="middle tab-bar-section">
-        <h1 class="title">Magnetic Moments</h1>
-      </section>
     </nav>
 
 
