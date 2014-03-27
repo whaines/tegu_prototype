@@ -38,7 +38,7 @@
 
       <section class="main-section animated fadeIn">
         <header class="row">
-          <div class="large-12 centered-columns animated fadeInDown">
+          <div class="large-12 columns animated fadeInDown">
             <img src="images/teguLogo.png">
           </div>
           <p id='hello' class='large-12 centered-columns animated fadeInUp'><strong>MAGNETIC MOMENTS</strong></p>
