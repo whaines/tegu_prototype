@@ -16,9 +16,10 @@
 </head>
 <body> 
 
-  <div class="off-canvas-wrap" = "fixed">
-    <div class="inner-wrap">
-    <nav>
+  <div class="off-canvas-wrap sticky" = "fixed">
+    <div class="inner-wrap sticky">
+    <nav class='top-bar fixed'>
+      
       <section class="right-small">
         <a class="right-off-canvas-toggle menu-icon fixed animated fadeIn"><span></span></a>
       </section>
