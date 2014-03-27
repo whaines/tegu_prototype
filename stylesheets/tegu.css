@@ -91,40 +91,19 @@ p.sunny{
 
 /*new icon styling*/
 
-#research{
+#about{
   height: 800px;
   width: 100%;
-  background-color: #00aef0;
+  background-image: url('../images/about.png');
+  background-size: cover;
 }
 
-#research h1{
-  color: white;
-}
 
-#research_p{
-  bottom: 0px;
-}
-
-#research_content{
-  top: 200px;
-  font-size: 1.5em;
-  color: white;
-}
-
-#research li {
-  padding-top: 10px;
-  text-align: center;
-  list-style-type: none;
-}
-
-#research li p{
-  padding-top: 10px;
-}
-
-#ia{
+#giving{
   height: 800px;
   width: 100%;
-  background-color: #cae100;
+  background-image: url('../images/giving.png');
+  background-size: cover;
 }
 
 #ia h1{

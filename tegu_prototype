@@ -40,46 +40,16 @@
       </section>      
 
 
-      <section id='research'>
+      <section id='about'>
           <div class="large-12 large-centered columns" id="research_content">
-            <div class="large-6 columns" id="research_p">
-              <h1>User Research</h1>
-              <p>I believe an intensive design process requires a strong emphasis on performing user research. Uncovering the "why" behind the way technology should work drew me to UX Design in the first place.</p>
-            </div>
-            <div class="large-6 columns hide-for-small">
-              <div class="large-12 columns set">
-                <li class="large-4 columns"><img src="../images/user_interviews.png"><p>User Interviews</p></li>
-                <li class="large-4 columns"><img src="../images/competitive_analysis.png"><p>Competitive Analysis</p></li>
-                <li class="large-4 columns"><img src="../images/personas.png"><p>Personas</p></li>
-              </div>
-              <div class="large-12 columns set bottom">
-                <li class="large-4 columns"><img src="../images/branding_analysis.png"><p>Branding Analysis</p></li>
-                <li class="large-4 columns"><img src="../images/usability_testing.png"><p>Usability Testing</p></li>
-                <li class="large-4 columns"><img src="../images/contextual_inquiry.png"><p>Contextual Inquiry</p></li>
-              </div>
-            </div>
+            
           </div>
       </section>
 
 
-      <section id='ia'>
+      <section id='giving'>
           <div class="large-12 large-centered columns" id="ia_content">
-            <div class="large-6 columns hide-for-small">
-              <div class="large-12 columns set">
-                <li class="large-4 columns"><img src="../images/systems_analysis.png"><p>Systems Analysis</p></li>
-                <li class="large-4 columns"><img src="../images/sitemapping.png"><p>Sitemapping</p></li>
-                <li class="large-4 columns"><img src="../images/metadata_analysis.png"><p>Metadata Analysis</p></li>
-              </div>
-              <div class="large-12 columns set bottom">
-                <li class="large-4 columns"><img src="../images/content_strategy.png"><p>Content Analysis</p></li>
-                <li class="large-4 columns"><img src="../images/mental_model.png"><p>Mental Model<p></li>
-                <li class="large-4 columns"><img src="../images/cardsort.png"><p>Cardsort</p></li>
-              </div>
-            </div>
-            <div class="large-6 columns" id="ia_p">
-              <h1>Information Architecture</h1>
-              <p>While User Research can provide a never-ending amount of data, Information Architecture can narrow, organize and evaluate your results in a way A/B testing and analytics platforms simply cannot.</p>
-            </div>
+            
           </div>
       </section>
 
