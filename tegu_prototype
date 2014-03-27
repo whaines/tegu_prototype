@@ -39,7 +39,7 @@
       <section class="main-section animated fadeIn">
         <header class="row">
           <div class="large-12 centered-columns animated fadeInDown">
-            <img src="../images/teguLogo.png">
+            <img src="/images/teguLogo.png">
           </div>
           <p id='hello' class='large-12 centered-columns animated fadeInUp'><strong>MAGNETIC MOMENTS</strong></p>
           <p id='hero' class='large-12 centered-columns animated fadeInUp'>The wooden block reinvented.
@@ -68,7 +68,7 @@
               <p>Tegu co-founders Chris and Will Haughey wanted to create a profitable business that would have a transforming effect on the lives of others.That’s why they set up shop in Honduras, a country battling extreme poverty and inequality. From the independent toy factory outside of Tegucigalpa, to partnerships with local schools, the brothers are working hand in hand with Hondurans to make a change.</p>
             </div>
             <div class="large-5 columns">
-              <img src="../images/tegu-people.jpg">
+              <img src="/images/tegu-people.jpg">
             </div>
           </div>
       </section>
