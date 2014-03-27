@@ -56,10 +56,11 @@ header img {
 
 header #hello {
   color: #ececec;
-  font-size: 85px;
+  font-size: 35px;
   margin-top: 21%;
   margin-bottom: 0px;
   padding-left: 60px;
+  text-align: center;
 }
 
 header #hero {
@@ -67,6 +68,7 @@ header #hero {
   font-size: 22px;
   padding-left: 68px;
   margin-bottom: 8%;
+  text-align: center;
 }
 
 .sunny{
