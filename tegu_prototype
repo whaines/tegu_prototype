@@ -16,10 +16,9 @@
 </head>
 <body> 
 
-  <div class="off-canvas-wrap sticky" = "fixed">
-    <div class="inner-wrap sticky">
-    <nav class='top-bar fixed'>
-      
+  <div class="off-canvas-wrap" = "fixed">
+    <div class="inner-wrap">
+    <nav>
       <section class="right-small">
         <a class="right-off-canvas-toggle menu-icon fixed animated fadeIn"><span></span></a>
       </section>
@@ -50,12 +49,7 @@
           <p id='hero' class='large-12 centered-columns animated fadeInUp'>The wooden block reinvented.
           </p>
        </header>
-      </section>   
-
-    <a class="exit-off-canvas"></a>
-
-  </div>
-</div>   
+      </section>      
 
 
       <section id='about'>
@@ -84,7 +78,10 @@
       </section>
 
 
+      <a class="exit-off-canvas"></a>
 
+  </div>
+</div>
 
    <script>
     	document.write('<script src=./javascripts/vendor/'+ ('__proto__' in {} ? 'zepto' : 'jquery')+ '.js><\/script>');
