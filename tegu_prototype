@@ -28,23 +28,17 @@
         </section>
       </nav>
 
-      <aside class="right-off-canvas-menu">
-        <ul class="off-canvas-list" id="menu">
-          <li><label>Projects</label></li>
-          <li><a href="#" data-reveal-id='schoolModal'><img src="../images/schoolmatch_final_logo.png"></a></li>
-          <li><a href="#" data-reveal-id='hotspotModal'><img src="../images/hotspot_logo_color.png"></a></li>
-          <li><a href="#" data-reveal-id='leagueModal'><img src="../images/BBI_guild_logo.png"></a></li>
-          <li><a href="#" data-reveal-id='publetModal'><img src="../images/publet_logo.png"></a></li>
-          <li><a href="#" data-reveal-id='hipitiModal'><img src="../images/hipiti_logo_color.png"></a></li>
-          <li><a href="#" data-reveal-id='netflixModal'><img src="../images/netflix-logo.png"></a></li>
-          <li><a href="#" data-reveal-id='popvoxModal'><img src="../images/popvox_logo_color.png"></a></li>
-          <li><label><a href="https://docs.google.com/presentation/d/1NXqofWpOS_l5kDsmD5ieW_70wThKv8sZA52ug5pJA7g/pub?start=false&loop=false&delayms=3000" target="_blank">TL;DR Version</a></label></li>
-          <li><label><a href="../images/Haines_CV.pdf" target="_blank">CV</a></label></li>
-          <li><label><a href="../images/Haines_cover_letter.pdf" target="_blank">A Letter</a></label></li>
-          <li><label><a href='mailto:wesley.haines@me.com'>Let's Talk</a></label></li>
-          <li><label><a href='http://www.linkedin.com/in/wesleyhaines' target="_blank">LinkedIn</a></label></li>
-        </ul>
-      </aside>
+     <aside class="left-off-canvas-menu">
+      <ul class="off-canvas-list">
+        <li><label>Tegu</label></li>
+        <li><a href="http://www.tegu.com/our-story/">Giving Back</a></li>
+        <li><a href="http://www.tegu.com/building-sets>Shop">Shop</a></li>
+        <li><a href="http://www.tegu.com/our-story/">Putting Down Roots</a></li>
+        <li><a href="http://www.tegu.com/tegu-faqs/">FAQ</a></li>
+        <li><a href="http://www.anderslinders.com">Retailers</a></li>
+        <li><a href="http://www.anderslinders.com">Contact US</a></li>
+      </ul>
+    </aside>
 
 
 
@@ -82,13 +76,6 @@
             <div class="large-5 columns">
               <img src="images/tegu-people.jpg">
             </div>
-          </div>
-      </section>
-
-
-      <section id='giving'>
-          <div class="large-12 large-centered columns">
-            
           </div>
       </section>
 
