@@ -19,14 +19,14 @@
   <div class="off-canvas-wrap" = "fixed">
     <div class="inner-wrap">
     <nav>
-      <section class="left-small">
-        <a class="left-off-canvas-toggle menu-icon fixed animated "><span></span></a>
+      <section class="right-small">
+        <a class="right-off-canvas-toggle menu-icon fixed animated fadeIn"><span></span></a>
       </section>
 
     </nav>
 
 
-     <aside class="left-off-canvas-menu">
+     <aside class="right-off-canvas-menu">
       <ul class="off-canvas-list" id="menu">
         <li><label>Tegu</label></li>
         <li><a href="http://www.tegu.com/our-story/">Giving Back</a></li>
@@ -39,7 +39,7 @@
     </aside>
 
 
-5
+
       <section class="main-section animated fadeIn">
         <header class="row">
           <div class="large-12 columns animated fadeInDown" style="float:center">
