@@ -13,17 +13,6 @@ html, body h1{
 
 /*header styling begins here*/
 
-#wh{
-  height: 40px;
-  width: 55px;
-}
-
-nav.top-bar{
-  height: 0px;
-  position: fixed;
-  line-height: 0px;
-}
-
 #menu.off-canvas-list{
   text-align: center;
   position: fixed;

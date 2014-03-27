@@ -20,7 +20,7 @@
     <div class="inner-wrap">
     <nav>
       <section class="right-small">
-        <a class="right-off-canvas-toggle menu-icon fixed"><span></span></a>
+        <a class="right-off-canvas-toggle menu-icon fixed animated "><span></span></a>
       </section>
 
     </nav>
