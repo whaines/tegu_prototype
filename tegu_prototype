@@ -16,25 +16,24 @@
 </head>
 <body> 
 
-  <div class="off-canvas-wrap" = "fixed">
-    <div class="inner-wrap">
+  <div class="off-canvas-wrap">
+  <div class="inner-wrap">
     <nav>
       <section class="right-small">
-        <a class="right-off-canvas-toggle menu-icon fixed animated fadeIn"><span></span></a>
+        <a class="right-off-canvas-toggle menu-icon" ><span></span></a>
+      </section>
+
+      <section class="middle tab-bar-section">
+        <h1 class="title">Foundation</h1>
       </section>
 
     </nav>
 
-
-     <aside class="right-off-canvas-menu">
-      <ul class="off-canvas-list" id="menu">
-        <li><label>Tegu</label></li>
-        <li><a href="http://www.tegu.com/our-story/">Giving Back</a></li>
-        <li><a href="http://www.tegu.com/building-sets>Shop">Shop</a></li>
-        <li><a href="http://www.tegu.com/our-story/">Putting Down Roots</a></li>
-        <li><a href="http://www.tegu.com/tegu-faqs/">FAQ</a></li>
-        <li><a href="http://www.anderslinders.com">Retailers</a></li>
-        <li><a href="http://www.anderslinders.com">Contact US</a></li>
+    <aside class="right-off-canvas-menu">
+      <ul class="off-canvas-list">
+        <li><label>Users</label></li>
+        <li><a href="#">Hari Seldon</a></li>
+        ...
       </ul>
     </aside>
 
