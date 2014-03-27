@@ -33,15 +33,11 @@
 
 
       <section class="main-section animated fadeIn">
-        <header class="row">
+        <div> class="row">
           <p id='hello' class='large-12 centered-columns animated fadeInRight'>MAGNETIC MOMENTS</p>
           <p id='hero' class='large-12 centered-columns animated fadeInRight'>The wooden block reinvented.
           </p>
-       </header>
-        <!--<div class="sunny animated fadeInUp">
-              <img src="../images/72.png">
-              <p>excited to announce I am a member of 72andSunny's 72U Winter program</p>
-        </div>-->
+       </div>
       </section>      
 
 
