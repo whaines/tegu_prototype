@@ -23,7 +23,7 @@
     <nav class="top-bar fixed" data-topbar>
       <ul class="title-area">
         <li class="name">
-          <h1>Tegu</h1>
+          <img src="../images/tegu_logo.png">
         </li>
       </ul>
     </nav>
