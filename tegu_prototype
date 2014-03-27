@@ -38,8 +38,11 @@
 
       <section class="main-section animated fadeIn">
         <header class="row">
-          <p id='hello' class='large-12 centered-columns animated fadeInRight'>MAGNETIC MOMENTS</p>
-          <p id='hero' class='large-12 centered-columns animated fadeInRight'>The wooden block reinvented.
+          <div class="large-12 centered-columns animated fadeInDown">
+            <img src="../images/tegu_logo.png">
+          </div>
+          <p id='hello' class='large-12 centered-columns animated fadeInUp'>MAGNETIC MOMENTS</p>
+          <p id='hero' class='large-12 centered-columns animated fadeInUp'>The wooden block reinvented.
           </p>
        </header>
       </section>      
