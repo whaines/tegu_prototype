@@ -106,30 +106,6 @@ p.sunny{
   background-size: cover;
 }
 
-#ia h1{
-  color: white;
-}
-
-#ia_p{
-  bottom: 50px;
-}
-
-#ia_content{
-  top: 200px;
-  font-size: 24px;
-  color: white;
-}
-
-#ia li {
-  padding-top: 10px;
-  text-align: center;
-  list-style-type: none;
-}
-
-#ia li p{
-  padding-top: 10px;
-}
-
 
 #ixd{
   height: 800px;
