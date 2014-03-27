@@ -16,11 +16,11 @@
 </head>
 <body> 
 
-  <div class="off-canvas-wrap sticky">
-    <div class="inner-wrap sticky">
+  <div class="off-canvas-wrap">
+    <div class="inner-wrap">
     <nav>
       <section class="right-small">
-        <a class="right-off-canvas-toggle menu-icon animated fadeIn" ><span></span></a>
+        <a class="right-off-canvas-toggle menu-icon" ><span></span></a>
       </section>
 
     </nav>
