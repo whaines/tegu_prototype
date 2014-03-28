@@ -78,7 +78,7 @@
       </section>
 
       <section id='gallery'>
-        
+        <p id='hello' class='large-12 centered-columns animated fadeInUp'><strong>Gallery</strong></p>
       </section>
 
 

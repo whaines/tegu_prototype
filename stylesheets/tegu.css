@@ -89,7 +89,7 @@ header #hero {
 #gallery{
   height: 500px;
   width: 100%;
-  margin-top: 50px;
+  margin-top: 150px;
   background-image: url('../images/gallery-copy.png');
   background-size: cover;
 }
