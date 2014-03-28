@@ -86,6 +86,12 @@ header #hero {
 }
 
 
+#gallery{
+  background-image: url('../images/gallery-copy.png');
+  background-size: cover;
+}
+
+
 
 
 

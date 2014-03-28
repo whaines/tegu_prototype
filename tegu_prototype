@@ -77,10 +77,8 @@
           </div>
       </section>
 
-      <section>
-        <div class="large-12 columns">
-          <img src="images/gallery-copy.png">
-        </div>
+      <section id='gallery'>
+        
       </section>
 
 
