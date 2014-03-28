@@ -101,6 +101,10 @@ header #hero {
   padding-top: 200px;
 }
 
+#gallery a:hover{
+  background-color: hsla(214, 0%, 94%, 0.37);
+}
+
 
 
 

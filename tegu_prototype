@@ -78,9 +78,9 @@
       </section>
 
       <section id='gallery'>
-        <div class="row">
+        <a href="http://www.pinterest.com/tegutoys/"></a><div class="row">
            <p id='hello' class='large-12 centered-columns animated fadeInUp'><strong>Gallery</strong></p>
-        </div>
+        </div></a>
       </section>
 
 
